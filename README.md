@@ -1,4 +1,4 @@
-# OS_RTOS
+# OS Fundamental
 
 An Operating System(OS) is a software that manages and handles hardware and software resources of a computing device.
 
